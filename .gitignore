@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+EXPORT/
+upload.sh
+wipe.sh
+PROTECTED/
+export_presets.cfg
